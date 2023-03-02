@@ -54,7 +54,7 @@ const chat= function(s){
     }return maxlength
 
 }
-const result= chat("pwwkew")
+const result= chat("bbbbb")
 console.log(result)
 
 
