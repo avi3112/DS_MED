@@ -3,7 +3,7 @@
 
 //vv technical ahuja
 
-// 2nd march ==>>> 6/10 done
+// 2nd march ==>>> 7/10 done
 // 3nd march ==>>>  /15
 // 4nd march ==>>>  /20
 // 5nd march ==>>>  /25
