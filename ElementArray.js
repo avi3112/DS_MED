@@ -8,16 +8,17 @@
 // Output: [-1,-1]
 
 var searchRange = function(nums, target) {
-    let li=[]
+    let l1=[]
     for(let i=0;i<nums.length;i++){
         if(nums[i]==target){
-            li.push(i)
+            l1.push(i)
+            continue
+        }else{
+            return -1
         }
-
-    } return li
-
+    }return l1
     
 };
 
-const result= searchRange([5,7,7,8,8,10],8)
+const result= searchRange([5,7,7,8,8,10],7)
 console.log(result)
