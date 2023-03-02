@@ -54,10 +54,11 @@ const chat= function(s){
     }return maxlength
 
 }
-
 const result= chat("pwwkew")
 console.log(result)
 
+
+// we should start dry run the code
 
 
 
